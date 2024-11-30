@@ -107,7 +107,7 @@ Once your template is ready, **do not forget to propose it to the community via 
 
 ```
 $Sudo su (root kali)
-$https://github.com/thewhiteh4t/seeker.git
+$https://github.com/Rahulkilaparthi/Location-seeker.git
 $cd seeker
 $sudo ./install.sh
 $sudo python3 seeker.py
@@ -125,12 +125,6 @@ $Home/desktop/logo.png(name)
 
 ```
 
-## Local Tunnels
-Use
-```
-ssh -R 80:localhost:8080 nokey@localhost.run
-```
-as an alterntive to ngrok
 
 ## Demo
 
