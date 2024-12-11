@@ -79,16 +79,6 @@ Steps to let you create your template is described in this [how-to](./createTemp
 
 Once your template is ready, **do not forget to propose it to the community via a PR (pull request)**
 
-## Tested On :
-
-* Kali Linux
-* BlackArch Linux
-* Ubuntu
-* Fedora
-* Kali Nethunter
-* Termux
-* Parrot OS
-* OSX - Monterey v.12.0.1
 
 ## Installation
 
